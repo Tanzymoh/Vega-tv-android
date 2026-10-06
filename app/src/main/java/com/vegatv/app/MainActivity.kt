@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var webView: WebView
 
     // URL della tua web app (modifica se cambia IP)
-    private val appUrl = "http://192.168.43.238:5173/"
+    private val appUrl = "http://15.235.62.132/"
 
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
